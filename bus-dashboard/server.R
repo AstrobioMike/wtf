@@ -3,6 +3,7 @@ library(leaflet)
 library(dplyr)
 library(curl) # make the jsonlite suggested dependency explicit
 
+
 # 1=South, 2=East, 3=West, 4=North
 dirColors <-c("1"="#595490", "2"="#527525", "3"="#A93F35", "4"="#BA48AA")
 
@@ -198,11 +199,13 @@ function(input, output, session) {
     })
 
     output$table <- DT::renderDataTable(DT::datatable({
-        N_KO_norm_cov_tab[, 1:12]
+        read.table("data/KO-normalized-master-tab.tsv", sep="\t", header=TRUE)[,1:12]
+#        N_KO_norm_cov_tab[, 1:12]
     }, options = list(pageLength = 20)))
 
     output$all_ko_table <- DT::renderDataTable(DT::datatable({
-        N_KO_info_tab
+        read.table("data/All_N_KO_info.tsv", sep = "\t", header = TRUE)
+        # N_KO_info_tab
     }, options = list(pageLength = 20)))
 
 }
