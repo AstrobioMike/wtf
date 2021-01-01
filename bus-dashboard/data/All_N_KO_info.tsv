@@ -1,0 +1,66 @@
+KO_ID	KO_name	KO_def	in_our_data
+K00260	gudB, rocG	glutamate dehydrogenase	FALSE
+K00261	GLUD1_2, gdhA	glutamate dehydrogenase (NAD(P)+)	TRUE
+K00262	E1.4.1.4, gdhA	glutamate dehydrogenase (NADP+)	TRUE
+K00264	GLT1	glutamate synthase (NADH)	FALSE
+K00265	gltB	glutamate synthase (NADPH) large chain	TRUE
+K00266	gltD	glutamate synthase (NADPH) small chain	TRUE
+K00284	GLU, gltS	glutamate synthase (ferredoxin)	FALSE
+K00360	nasB	assimilatory nitrate reductase electron transfer subunit	FALSE
+K00362	nirB	nitrite reductase (NADH) large subunit	FALSE
+K00363	nirD	nitrite reductase (NADH) small subunit	FALSE
+K00366	nirA	ferredoxin-nitrite reductase	TRUE
+K00367	narB	ferredoxin-nitrate reductase	TRUE
+K00368	nirK	nitrite reductase (NO-forming)	TRUE
+K00370	narG, narZ, nxrA	nitrate reductase / nitrite oxidoreductase, alpha subunit	TRUE
+K00371	narH, narY, nxrB	nitrate reductase / nitrite oxidoreductase, beta subunit	TRUE
+K00372	nasA	assimilatory nitrate reductase catalytic subunit	FALSE
+K00374	narI, narV	nitrate reductase gamma subunit	TRUE
+K00376	nosZ	nitrous-oxide reductase	TRUE
+K00459	ncd2, npd	nitronate monooxygenase	TRUE
+K00531	anfG	nitrogenase delta subunit	FALSE
+K00926	arcC	carbamate kinase	TRUE
+K01455	E3.5.1.49	formamidase	TRUE
+K01501	E3.5.5.1	nitrilase	TRUE
+K01672	CA	carbonic anhydrase	FALSE
+K01673	cynT, can	carbonic anhydrase	TRUE
+K01674	cah	carbonic anhydrase	TRUE
+K01725	cynS	cyanate lyase	TRUE
+K01743	E4.2.1.1	carbonic anhydrase	TRUE
+K01915	glnA, GLUL	glutamine synthetase	TRUE
+K01948	CPS1	carbamoyl-phosphate synthase (ammonia)	FALSE
+K02305	norC	nitric oxide reductase subunit C	TRUE
+K02567	napA	nitrate reductase (cytochrome)	TRUE
+K02568	napB	nitrate reductase (cytochrome), electron transfer subunit	TRUE
+K02575	NRT, narK, nrtP, nasA	MFS transporter, NNP family, nitrate/nitrite transporter	TRUE
+K02586	nifD	nitrogenase molybdenum-iron protein alpha chain	TRUE
+K02588	nifH	nitrogenase iron protein NifH	TRUE
+K02591	nifK	nitrogenase molybdenum-iron protein beta chain	TRUE
+K03385	nrfA	nitrite reductase (cytochrome c-552)	TRUE
+K04561	norB	nitric oxide reductase subunit B	TRUE
+K05601	hcp	hydroxylamine reductase	TRUE
+K10534	NR	nitrate reductase (NAD(P)H)	FALSE
+K10535	hao	hydroxylamine dehydrogenase	TRUE
+K10944	pmoA-amoA	methane/ammonia monooxygenase subunit A	FALSE
+K10945	pmoB-amoB	methane/ammonia monooxygenase subunit B	FALSE
+K10946	pmoC-amoC	methane/ammonia monooxygenase subunit C	FALSE
+K15371	GDH2	glutamate dehydrogenase	TRUE
+K15576	nrtA, nasF, cynA	nitrate/nitrite transport system substrate-binding protein	TRUE
+K15577	nrtB, nasE, cynB	nitrate/nitrite transport system permease protein	TRUE
+K15578	nrtC, nasD	nitrate/nitrite transport system ATP-binding protein	TRUE
+K15579	nrtD, cynD	nitrate/nitrite transport system ATP-binding protein	FALSE
+K15864	nirS	nitrite reductase (NO-forming) / hydroxylamine reductase	TRUE
+K15876	nrfH	cytochrome c nitrite reductase small subunit	TRUE
+K15877	CYP55	fungal nitric oxide reductase	FALSE
+K17877	NIT-6	nitrite reductase (NAD(P)H)	FALSE
+K18245	CA2	carbonic anhydrase 2	FALSE
+K18246	CA4	carbonic anhydrase 4	FALSE
+K19823	NAO	nitroalkane oxidase	FALSE
+K20932	K20932	hydrazine synthase subunit	FALSE
+K20933	K20933	hydrazine synthase subunit	FALSE
+K20934	K20934	hydrazine synthase subunit	FALSE
+K20935	hdh	hydrazine dehydrogenase	FALSE
+K22896	vnfD	vanadium-dependent nitrogenase alpha chain	FALSE
+K22897	vnfK	vanadium-dependent nitrogenase beta chain	FALSE
+K22898	vnfG	vanadium nitrogenase delta subunit	FALSE
+K22899	vnfH	vanadium nitrogenase iron protein	FALSE
