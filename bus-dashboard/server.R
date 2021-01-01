@@ -2,6 +2,8 @@ library(shinydashboard)
 library(leaflet)
 library(dplyr)
 library(curl) # make the jsonlite suggested dependency explicit
+library(tidyverse)
+
 
 
 # 1=South, 2=East, 3=West, 4=North
